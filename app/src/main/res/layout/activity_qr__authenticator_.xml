@@ -6,7 +6,7 @@
     android:id="@+id/layout_scanner_container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="app.sender.QR_Authenticator_Activity">
+    tools:context="app.sender.QR_Reader_Activity">
 
 
     <LinearLayout
